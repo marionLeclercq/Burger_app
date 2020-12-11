@@ -1,4 +1,4 @@
-Projet en REACT JS, application web monopage, simulation de commandes de burgers 🍔
+Projet en REACT JS, application web monopage, simulation de commande de burgers 🍔
 
 Utilisation de Create React App.
 
