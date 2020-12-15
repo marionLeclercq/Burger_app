@@ -13,10 +13,9 @@ Utilisation de la bibliothèque Axios pour les requêtes HTTP.
 Le site est responsive, pour smarphones le menu change et devient un menu swipe latéral.
 
 *Version Desktop :*
-<center>
+
 ![Burger_app_image_desktop](https://github.com/marionLeclercq/Burger_app/blob/main/public/burger_desktop.png)
-</center>
+
 *Version Smartphone :*
-<center>
+
 ![Burger_app_image_mobile](https://github.com/marionLeclercq/Burger_app/blob/main/public/burger_mobile.png)
-</center>
