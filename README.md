@@ -10,4 +10,5 @@ Utilisation de Firebase pour simuler une base de donnée où sera stocké les co
 
 Le site est responsive, pour smarphones le menu change et devient un menu swipe latéral.
 
-![Burger_image_desktop](https://github.com/marionLeclercq/Burger_app/blob/main/public/burger_desktop.png)
+![Burger_app_image_desktop](https://github.com/marionLeclercq/Burger_app/blob/main/public/burger_desktop.png)
+![Burger_app_image_mobile](https://github.com/marionLeclercq/Burger_app/blob/main/public/burger_mobile.png)
